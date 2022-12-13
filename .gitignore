@@ -1,0 +1,5 @@
+./Sorghumnutrient/*
+*.out
+*.err
+*.npy
+
